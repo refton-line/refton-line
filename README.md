@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a **Starter Tester** actively working with:
+I'm a **Junior QA Engineer** actively working with:
 
 * Python
 * C++
