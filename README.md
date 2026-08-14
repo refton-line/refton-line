@@ -42,7 +42,7 @@ LEARN
 
 ## Project
 
-### Лад
+### [Лад](https://github.com/refton-line/Lad)
 
 **Electron desktop application — task tracker and more.**
 
